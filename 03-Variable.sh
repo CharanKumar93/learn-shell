@@ -15,3 +15,5 @@ echo ADD - $ADD
 
 ##variable from command line
 echo b -$b
+
+
